@@ -1,0 +1,74 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:AccountController.cs" caret="1314" fromTop="7" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Models/f:AccountModels.cs" caret="10877" fromTop="52" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Models/f:ControlpanelModel.cs" caret="497" fromTop="19" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Models/f:ImageModel.cs" caret="384" fromTop="15" />
+      <File id="AD1F532C-A9F4-4326-866F-4FA4EE9566C5/f:ContentPage.cs" caret="251" fromTop="13" />
+      <File id="AD1F532C-A9F4-4326-866F-4FA4EE9566C5/f:Images.cs" caret="72" fromTop="4" />
+      <File id="AD1F532C-A9F4-4326-866F-4FA4EE9566C5/f:ObjectScopeProvider1.cs" caret="809" fromTop="19" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:ObjectScopeProvider1.cs" caret="807" fromTop="19" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:ControlpanelController.cs" caret="2265" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:HomeController.cs" caret="410" fromTop="13" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:ChangePassword.aspx" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:ChangePasswordSuccess.aspx" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:LogOn.aspx" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:Register.aspx" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:AddImage.aspx" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:AddPage.aspx" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:EditPage.aspx" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Images.aspx" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Index.aspx" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Pages.aspx" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Home/f:Index.aspx" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:AccountController.cs" caret="214" fromTop="10" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:AccountController.cs" caret="214" fromTop="11" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:AccountController.cs" caret="2761" fromTop="84" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:AccountController.cs" caret="1314" fromTop="7" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:ControlpanelController.cs" caret="287" fromTop="10" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:ControlpanelController.cs" caret="5815" fromTop="49" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:ControlpanelController.cs" caret="5245" fromTop="49" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:HomeController.cs" caret="1494" fromTop="43" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Models/f:AccountModels.cs" caret="187" fromTop="17" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Models/f:AccountModels.cs" caret="10877" fromTop="52" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Models/f:ControlpanelModel.cs" caret="115" fromTop="9" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Models/f:ControlpanelModel.cs" caret="500" fromTop="19" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Models/f:ImageModel.cs" caret="134" fromTop="4" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Models/f:ImageModel.cs" caret="384" fromTop="15" />
+      <File id="AD1F532C-A9F4-4326-866F-4FA4EE9566C5/f:Images.cs" caret="297" fromTop="12" />
+      <File id="AD1F532C-A9F4-4326-866F-4FA4EE9566C5/f:ContentPage.cs" caret="61" fromTop="9" />
+      <File id="AD1F532C-A9F4-4326-866F-4FA4EE9566C5/f:ObjectScopeProvider1.cs" caret="0" fromTop="0" />
+      <File id="AD1F532C-A9F4-4326-866F-4FA4EE9566C5/f:ContentPage.cs" caret="251" fromTop="13" />
+      <File id="AD1F532C-A9F4-4326-866F-4FA4EE9566C5/f:Images.cs" caret="72" fromTop="4" />
+      <File id="AD1F532C-A9F4-4326-866F-4FA4EE9566C5/f:ObjectScopeProvider1.cs" caret="814" fromTop="19" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:ObjectScopeProvider1.cs" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:ObjectScopeProvider1.cs" caret="807" fromTop="19" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:ControlpanelController.cs" caret="2265" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:HomeController.cs" caret="410" fromTop="13" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:Register.aspx" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Images.aspx" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Pages.aspx" caret="0" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

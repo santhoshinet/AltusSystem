@@ -1,0 +1,55 @@
+.h1
+{
+	font-size: 2em;
+	border-bottom: 1px dotted #CCCCCC;
+	margin-right: 15px;
+	margin: 0px;
+}
+.ul
+{
+	list-style-type: none;
+	margin: 0px;
+	padding-top: 5px;
+}
+.ul LI
+{
+	margin: 0px;
+	padding-bottom: 5px;
+}
+.ul H2
+{
+	margin: 0px;
+	padding: 0px;
+}
+.h2
+{
+	display: block;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+.label
+{
+	display: block;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.ul INPUT[type="text"]
+{
+	padding: 3px;
+	width: 400px;
+	border: 1px solid #AAA;
+	background-color: #F8FEFC;
+}
+.ul INPUT[type="password"]
+{
+	padding: 3px;
+	width: 400px;
+	border: 1px solid #AAA;
+	background-color: #F8FEFC;
+}
+INPUT[type="text"]:focus, INPUT[type="password"]:focus
+{
+	background-color: #FFFDD8;
+	color: #111;
+}
