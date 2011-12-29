@@ -8,68 +8,67 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Models/f:ImageModel.cs" caret="337" fromTop="13" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Default.aspx" caret="394" fromTop="10" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Web.config" caret="3079" fromTop="25" />
-      <File id="AD1F532C-A9F4-4326-866F-4FA4EE9566C5/f:ObjectScopeProvider1.cs" caret="0" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:ObjectScopeProvider1.cs" caret="0" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:about.htm" caret="10792" fromTop="33" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Global.asax.cs" caret="688" fromTop="21" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Shared/f:Error.aspx" caret="0" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Shared/f:LogOnUserControl.ascx" caret="0" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Shared/f:Site.Master" caret="0" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:ControlpanelController.cs" caret="0" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:AccountController.cs" caret="1763" fromTop="17" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Content/f:stylesheet_default.css" caret="4077" fromTop="96" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Content/f:FormLayout.css" caret="1745" fromTop="38" />
       <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:ChangePassword.aspx" caret="0" fromTop="0" />
       <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:ChangePasswordSuccess.aspx" caret="19" fromTop="0" />
       <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:LogOn.aspx" caret="0" fromTop="0" />
       <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:Register.aspx" caret="0" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:AddImage.aspx" caret="0" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:AddPage.aspx" caret="0" fromTop="0" />
       <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Ajaxaddimage.aspx" caret="0" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Ctrladdimage.ascx" caret="0" fromTop="0" />
       <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:EditPage.aspx" caret="0" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Images.aspx" caret="0" fromTop="0" />
       <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Index.aspx" caret="0" fromTop="0" />
       <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:InsertImage.aspx" caret="0" fromTop="0" />
       <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Pages.aspx" caret="0" fromTop="0" />
       <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Home/f:Pages.aspx" caret="0" fromTop="0" />
       <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Default.aspx.cs" caret="402" fromTop="12" />
       <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:HomeController.cs" caret="1928" fromTop="39" />
+      <File id="AD1F532C-A9F4-4326-866F-4FA4EE9566C5/f:App1.config" caret="0" fromTop="0" />
+      <File id="AD1F532C-A9F4-4326-866F-4FA4EE9566C5/f:ObjectScopeProvider1.cs" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:about.htm" caret="7185" fromTop="160" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:contact.htm" caret="2242" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:index.htm" caret="503" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Qc-testing.htm" caret="7669" fromTop="14" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:profiles.htm" caret="19700" fromTop="11" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:staff-augmentation.htm" caret="2293" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Technology.htm" caret="2332" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Web.config" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Images.aspx" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:ControlpanelController.cs" caret="1300" fromTop="17" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:AddPage.aspx" caret="4349" fromTop="54" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Ctrladdimage.ascx" caret="103" fromTop="1" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:AddImage.aspx" caret="497" fromTop="7" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Content/f:FormLayout.css" caret="1680" fromTop="28" />
     </RecentFiles>
     <RecentEdits>
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Content/f:FormLayout.css" caret="1291" fromTop="15" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:AddPage.aspx" caret="1822" fromTop="12" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Content/f:FormLayout.css" caret="1392" fromTop="19" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Content/f:FormLayout.css" caret="1552" fromTop="26" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Content/f:FormLayout.css" caret="1780" fromTop="39" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Pages.aspx" caret="2800" fromTop="20" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Pages.aspx" caret="3229" fromTop="31" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:ChangePassword.aspx" caret="317" fromTop="4" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:ChangePassword.aspx" caret="1866" fromTop="38" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:ChangePassword.aspx" caret="22" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:ChangePassword.aspx" caret="632" fromTop="13" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:ChangePasswordSuccess.aspx" caret="287" fromTop="4" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:ChangePasswordSuccess.aspx" caret="607" fromTop="14" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:ChangePasswordSuccess.aspx" caret="869" fromTop="24" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:LogOn.aspx" caret="314" fromTop="4" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:LogOn.aspx" caret="634" fromTop="14" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:LogOn.aspx" caret="1680" fromTop="37" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:Register.aspx" caret="320" fromTop="4" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:Register.aspx" caret="743" fromTop="15" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:Register.aspx" caret="2429" fromTop="31" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:Register.aspx" caret="2411" fromTop="34" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:Register.aspx" caret="1743" fromTop="31" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:Register.aspx" caret="1991" fromTop="38" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:Register.aspx" caret="2260" fromTop="38" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:Register.aspx" caret="2411" fromTop="11" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:Register.aspx" caret="637" fromTop="14" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:Register.aspx" caret="23" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:LogOn.aspx" caret="23" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Account/f:ChangePasswordSuccess.aspx" caret="19" fromTop="0" />
-      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Controllers/f:HomeController.cs" caret="1985" fromTop="17" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:index.htm" caret="3204" fromTop="15" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:index.htm" caret="6145" fromTop="6" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:profiles.htm" caret="239" fromTop="6" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:profiles.htm" caret="1624" fromTop="11" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:profiles.htm" caret="1785" fromTop="15" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:profiles.htm" caret="1956" fromTop="10" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:profiles.htm" caret="2242" fromTop="13" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:profiles.htm" caret="19700" fromTop="11" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Qc-testing.htm" caret="239" fromTop="6" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Qc-testing.htm" caret="1794" fromTop="17" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Qc-testing.htm" caret="1955" fromTop="9" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Qc-testing.htm" caret="2126" fromTop="7" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Qc-testing.htm" caret="2412" fromTop="1" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Qc-testing.htm" caret="7669" fromTop="14" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:staff-augmentation.htm" caret="239" fromTop="6" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:staff-augmentation.htm" caret="1689" fromTop="12" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:staff-augmentation.htm" caret="1850" fromTop="4" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:staff-augmentation.htm" caret="2021" fromTop="5" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:staff-augmentation.htm" caret="2293" fromTop="0" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Technology.htm" caret="239" fromTop="6" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Technology.htm" caret="1726" fromTop="7" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Technology.htm" caret="1887" fromTop="2" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Technology.htm" caret="2058" fromTop="3" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/f:Technology.htm" caret="2332" fromTop="1" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Images.aspx" caret="3404" fromTop="26" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Images.aspx" caret="2974" fromTop="15" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Content/f:FormLayout.css" caret="1751" fromTop="16" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:AddPage.aspx" caret="4187" fromTop="18" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:AddPage.aspx" caret="4390" fromTop="19" />
+      <File id="BCE74F21-B02D-4DCE-8CC0-870255512739/d:Views/d:Controlpanel/f:Ctrladdimage.ascx" caret="103" fromTop="1" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

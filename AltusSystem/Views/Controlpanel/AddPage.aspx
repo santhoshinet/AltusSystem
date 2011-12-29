@@ -101,7 +101,7 @@
                 'transitionIn': 'elastic',
                 'transitionOut': 'elastic',
                 'autoScale': true,
-                'autoDimensions': true,
+                'autoDimensions': true, 
                 'onClosed': function() {
                 },
                 'onStart': function() {
