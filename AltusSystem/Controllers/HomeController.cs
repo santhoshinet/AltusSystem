@@ -8,20 +8,25 @@ namespace AltusSystem.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public ActionResult Pages(string pid)
         {
-            var scope = ObjectScopeProvider1.GetNewObjectScope();
-            var count = (from c in scope.GetOqlQuery<ContentPage>().ExecuteEnumerable()
-                         select c).Count();
-            if (count > 0)
-            {
-                var page = (from c in scope.GetOqlQuery<ContentPage>().ExecuteEnumerable()
-                            select c).First();
-                ViewData["Content"] = page.Content;
-            }
+            if (string.IsNullOrEmpty(pid))
+                ViewData["Content"] = "";
             else
             {
-                ViewData["Content"] = "";
+                var scope = ObjectScopeProvider1.GetNewObjectScope();
+                var count = (from c in scope.GetOqlQuery<ContentPage>().ExecuteEnumerable()
+                             where c.Name.ToLower().Trim().Equals(pid.ToLower().Trim())
+                             select c).Count();
+                if (count > 0)
+                {
+                    var page = (from c in scope.GetOqlQuery<ContentPage>().ExecuteEnumerable()
+                                where c.Name.ToLower().Trim().Equals(pid.ToLower().Trim())
+                                select c).First();
+                    ViewData["Content"] = page.Content;
+                }
+                else
+                    ViewData["Content"] = "";
             }
             return View();
         }
@@ -32,7 +37,7 @@ namespace AltusSystem.Controllers
             {
                 var scope = ObjectScopeProvider1.GetNewObjectScope();
                 List<File> files = (from c in scope.GetOqlQuery<File>().ExecuteEnumerable()
-                                    where c.ID.Equals(pid)
+                                    where c.Id.Equals(pid)
                                     select c).ToList();
                 if (files.Count > 0)
                 {
@@ -41,7 +46,14 @@ namespace AltusSystem.Controllers
             }
             catch (Exception)
             {
+                return null;
             }
+            return null;
+        }
+
+        public ActionResult Index()
+        {
+            Response.Redirect("/Index.htm");
             return null;
         }
     }

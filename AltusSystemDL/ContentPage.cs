@@ -9,6 +9,6 @@ namespace AltusSystemDL
 
         public string Content { get; set; }
 
-        public string ID { get; set; }
+        public string Id { get; set; }
     }
 }

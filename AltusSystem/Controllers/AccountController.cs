@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Web.Mvc;
 using System.Web.Routing;
+using System.Web.Security;
 using AltusSystem.Models;
 
 namespace AltusSystem.Controllers
@@ -37,7 +38,7 @@ namespace AltusSystem.Controllers
                     {
                         return Redirect(returnUrl);
                     }
-                    return RedirectToAction("Index", "Home");
+                    return RedirectToAction("Index", "Controlpanel");
                 }
                 ModelState.AddModelError("", "The user name or password provided is incorrect.");
             }
@@ -50,7 +51,7 @@ namespace AltusSystem.Controllers
         {
             FormsService.SignOut();
 
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("Index", "Controlpanel");
         }
 
         [Authorize]
@@ -81,6 +82,33 @@ namespace AltusSystem.Controllers
         public ActionResult ChangePasswordSuccess()
         {
             return View();
+        }
+
+        public ActionResult Register()
+        {
+            ViewData["PasswordLength"] = MembershipService.MinPasswordLength;
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Register(RegisterModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                // Attempt to register the user
+                MembershipCreateStatus createStatus = MembershipService.CreateUser(model.UserName, model.Password, model.Email);
+                if (createStatus == MembershipCreateStatus.Success)
+                {
+                    FormsService.SignIn(model.UserName, false /* createPersistentCookie */);
+                    return RedirectToAction("Index", "Controlpanel");
+                    //return RedirectToAction("Pages", "Home", new RouteValueDictionary() { { "pid", "index" } });
+                }
+                ModelState.AddModelError("", AccountValidation.ErrorCodeToString(createStatus));
+            }
+
+            // If we got this far, something failed, redisplay form
+            ViewData["PasswordLength"] = MembershipService.MinPasswordLength;
+            return View(model);
         }
     }
 }

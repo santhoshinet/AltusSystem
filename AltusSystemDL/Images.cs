@@ -11,6 +11,6 @@ namespace AltusSystemDL
 
         public string MimeType { get; set; }
 
-        public string ID { get; set; }
+        public string Id { get; set; }
     }
 }

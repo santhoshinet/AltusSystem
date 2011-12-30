@@ -5,3 +5,10 @@ C:\Users\Santhosh\Desktop\My Works\AltusSystem\AltusSystemDL\bin\Debug\Telerik.O
 C:\Users\Santhosh\Desktop\My Works\AltusSystem\AltusSystemDL\bin\Debug\Telerik.OpenAccess.Query.xml
 C:\Users\Santhosh\Desktop\My Works\AltusSystem\AltusSystemDL\obj\Debug\AltusSystemDL.dll
 C:\Users\Santhosh\Desktop\My Works\AltusSystem\AltusSystemDL\obj\Debug\AltusSystemDL.pdb
+C:\Users\Santhosh\Desktop\MyWorks\D2H\AltusSystem\AltusSystemDL\bin\Debug\AltusSystemDL.dll
+C:\Users\Santhosh\Desktop\MyWorks\D2H\AltusSystem\AltusSystemDL\bin\Debug\AltusSystemDL.pdb
+C:\Users\Santhosh\Desktop\MyWorks\D2H\AltusSystem\AltusSystemDL\bin\Debug\Telerik.OpenAccess.Query.dll
+C:\Users\Santhosh\Desktop\MyWorks\D2H\AltusSystem\AltusSystemDL\bin\Debug\Telerik.OpenAccess.Query.xml
+C:\Users\Santhosh\Desktop\MyWorks\D2H\AltusSystem\AltusSystemDL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Santhosh\Desktop\MyWorks\D2H\AltusSystem\AltusSystemDL\obj\Debug\AltusSystemDL.dll
+C:\Users\Santhosh\Desktop\MyWorks\D2H\AltusSystem\AltusSystemDL\obj\Debug\AltusSystemDL.pdb

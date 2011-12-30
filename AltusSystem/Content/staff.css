@@ -60,7 +60,7 @@ body {
 
 /* =banner / divisions
 ----------------------------------------------------------------------------------------- */
-#banner{ background:url(images/banner1.jpg) no-repeat; height:406px; margin:0; padding:0; width:1003px;  }
+#banner{ background:url(/images/banner1.jpg) no-repeat; height:406px; margin:0; padding:0; width:1003px;  }
 #banner h1{ font:12px arial; color:#243a5d; }
 .banner_text {
 	position:relative;
@@ -73,7 +73,7 @@ body {
 /* =left / divisions
 ----------------------------------------------------------------------------------------- */
 #left{
-	background:url(images/leftbg.png) repeat-y;
+	background:url(/images/leftbg.png) repeat-y;
 	margin:0;
 	padding:0;
 	height:550px;
@@ -88,9 +88,9 @@ body {
 .div_menu { width:110px; display:block; height:30px; background:#79a1cd; -moz-border-radius:0 3px 3px 0px; -webkit-border-radius:0 3px 3px 0; -khtml-border-radius:0 3px 3px 0; border-radius: 0 3px 3px 0; text-align:right; padding:0 10px 0 0;
 			color:#ffffff; font:bold 12px arial; line-height:30px; margin:10px 0 10px 0; opacity:1; cursor:pointer;}
 			
-.submenu {display:none; width:240px; left:120px; bottom:29px;  position:relative; color:#000; padding:0 20px 40px 0; border:solid 1px #79a1cd; border-bottom:solid 1px #a5bbc9; border-right:solid 1px #a5bbc9; background:#e9f2fa bottom url(../images/seb-bg1.png) no-repeat; }
-.submenu2 {display:none; width:240px; left:120px; bottom:29px;  position:relative; color:#000; padding:0 20px 40px 0; border:solid 1px #79a1cd; border-bottom:solid 1px #a5bbc9; border-right:solid 1px #a5bbc9; background:#e9f2fa bottom url(../images/seb-bg2.png) no-repeat; }
-.submenu3 {display:none; width:240px; left:120px; bottom:29px;  position:relative; color:#000; padding:0 20px 40px 0; border:solid 1px #79a1cd; border-bottom:solid 1px #a5bbc9; border-right:solid 1px #a5bbc9; background:#e9f2fa bottom url(../images/seb-bg3.png) no-repeat; }
+.submenu {display:none; width:240px; left:120px; bottom:29px;  position:relative; color:#000; padding:0 20px 40px 0; border:solid 1px #79a1cd; border-bottom:solid 1px #a5bbc9; border-right:solid 1px #a5bbc9; background:#e9f2fa bottom url(/images/seb-bg1.png) no-repeat; }
+.submenu2 {display:none; width:240px; left:120px; bottom:29px;  position:relative; color:#000; padding:0 20px 40px 0; border:solid 1px #79a1cd; border-bottom:solid 1px #a5bbc9; border-right:solid 1px #a5bbc9; background:#e9f2fa bottom url(/images/seb-bg2.png) no-repeat; }
+.submenu3 {display:none; width:240px; left:120px; bottom:29px;  position:relative; color:#000; padding:0 20px 40px 0; border:solid 1px #79a1cd; border-bottom:solid 1px #a5bbc9; border-right:solid 1px #a5bbc9; background:#e9f2fa bottom url(/images/seb-bg3.png) no-repeat; }
 
 #con1 a, #tec1 a, #ser1 a{ font:bold 12px arial; color:#000; }
 #con1 a:hover, #tec1 a:hover, #ser1 a:hover{ font:bold 12px arial; color:#000;  }
@@ -101,7 +101,7 @@ body {
 #social li{ margin:0; padding:0 5px 0 0; list-style-type:none; float:left; }
 
 #news {padding:0px 0 0 10px; margin-top:5px;}
-#news li{ list-style-type:none; background:url(images/arrows.gif) no-repeat; padding:0 0 3px 10px; background-position:0 3px; font:11px arial; color:#ffffff;}
+#news li{ list-style-type:none; background:url(/images/arrows.gif) no-repeat; padding:0 0 3px 10px; background-position:0 3px; font:11px arial; color:#ffffff;}
 /* =bottom / divisions
 ----------------------------------------------------------------------------------------- */
 #bottom { height:167px; width:865px;   margin:0 0 0 138px; padding:0; color:#333; }
@@ -115,3 +115,7 @@ body {
 .bottom_pic li{ float:left; }
 
  
+.div_menu, .div_menu div 
+{
+    z-index:999;
+}
