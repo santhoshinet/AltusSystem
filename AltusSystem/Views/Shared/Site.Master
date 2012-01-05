@@ -44,26 +44,26 @@
             </div>
             <div class="div_menu" id="home">
                 <div>
-                    <a href="index.htm">Home</a></div>
+                    <a href="/index.htm">Home</a></div>
             </div>
             <div class="div_menu" id="abt">
-                <a href="about.htm">About us</a></div>
+                <a href="/about.htm">About us</a></div>
             <div class="div_menu">
                 <div id="con">
-                    <a href="Technology.htm">Technology</a></div>
+                    <a href="/Technology.htm">Technology</a></div>
             </div>
             <div class="div_menu">
                 <div id="tec">
-                    <a href="Qc-testing.htm">QC &amp; Testing</a></div>
+                    <a href="/Qc-testing.htm">QC &amp; Testing</a></div>
             </div>
             <div class="div_menu">
                 <div id="ser">
-                    <a href="staff-augmentation.htm">Staff Augmentation</a></div>
+                    <a href="/staff-augmentation.htm">Staff Augmentation</a></div>
             </div>
             <div class="div_menu">
-                <a href="profiles.htm">Profiles</a></div>
+                <a href="/pages/profile">Profiles</a></div>
             <div class="div_menu">
-                <a href="contact.htm">Contact Us</a></div>
+                <a href="/contact.htm">Contact Us</a></div>
             <div style="height: 30px;">
             </div>
             <div id="news">
@@ -99,7 +99,8 @@
             </div>
             <!-- header ends -->
             <!-- banner starts -->
-            <div id="banner">
+            <div id="banner" style="background: url(/images/profile.gif) no-repeat; height: 406px;
+                margin: 0; padding: 0; width: 1003px;">
                 <div class="banner_text">
                     <div>
                         <asp:ContentPlaceHolder ID="MainContent" runat="server" />
@@ -124,7 +125,6 @@
             <p class="clear">
             </p>
         </div>
-        <!-- bottom ends -->
         <!-- footer starts -->
         <div id="footer">
             <div id="social" style="width: 200px; float: left">
@@ -138,7 +138,7 @@
                 </p>
             </div>
             <p>
-                2011 Altus-systems All Rights Reserved <a href="privacy.html">Privacy Policy</a>
+                2011 Altus-systems All Rights Reserved <a href="/privacy.html">Privacy Policy</a>
                 | Terms of Use | Site Map</p>
         </div>
         <!-- footer ends-->

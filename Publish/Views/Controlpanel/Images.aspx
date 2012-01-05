@@ -73,6 +73,7 @@
             }
            else
            {%>
+            <form method="post" action="">
         <ul class="ul">
             <li>
                 <h2>
@@ -83,6 +84,7 @@
                 <input type="button" value="Home" onclick="window.location = '/controlpanel';" />
             </li>
         </ul>
+        </form>
         <%}%>
     </div>
 </body>

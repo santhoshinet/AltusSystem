@@ -145,10 +145,10 @@ namespace AltusSystem.Controllers
                     scope.Transaction.Commit();
                     try
                     {
-                        using (var connection = new SqlConnection("Data Source=208.91.198.196;Initial Catalog=admin_sruthilaya;Persist Security Info=True;User ID=sruthilaya;Password=password@123"))
+                        using (var connection = new SqlConnection("Data Source=208.91.198.196;Initial Catalog=admin_altus_system;Persist Security Info=True;User ID=admin_altus_system;Password=password@123"))
                         {
                             connection.Open();
-                            string qry = "update content_page set [<_content>k___backing_field] = '" + pageModel.Content + "' where [<_i_d>k___backing_field]='" + page.Id + "'";
+                            string qry = "update content_page set [<_content>k___backing_field] = '" + pageModel.Content + "' where [<_id>k___backing_field]='" + page.Id + "'";
                             var command = new SqlCommand(qry, connection);
                             command.ExecuteNonQuery();
                             connection.Close();
@@ -179,10 +179,10 @@ namespace AltusSystem.Controllers
                 scope.Transaction.Commit();
                 try
                 {
-                    using (var connection = new SqlConnection("Data Source=208.91.198.196;Initial Catalog=admin_sruthilaya;Persist Security Info=True;User ID=sruthilaya;Password=password@123"))
+                    using (var connection = new SqlConnection("Data Source=208.91.198.196;Initial Catalog=admin_altus_system;Persist Security Info=True;User ID=admin_altus_system;Password=password@123"))
                     {
                         connection.Open();
-                        string qry = "update content_page set [<_content>k___backing_field] = '" + adPageModel.Content + "' where [<_i_d>k___backing_field]='" + contentPage.Id + "'";
+                        string qry = "update content_page set [<_content>k___backing_field] = '" + adPageModel.Content + "' where [<_id>k___backing_field]='" + contentPage.Id + "'";
                         var command = new SqlCommand(qry, connection);
                         command.ExecuteNonQuery();
                         connection.Close();
